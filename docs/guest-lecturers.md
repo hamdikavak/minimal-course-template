@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Instructor
-nav_order: 20
+title: Invited Lecturers
+nav_order: 5
 ---
 
 # Invited lecturers
