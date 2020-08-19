@@ -6,10 +6,8 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
-## Course description
 
-Course description comes here.
 
-### License
+Welcome to the public webpage for the CDS XYZ - Course Name course.
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+
