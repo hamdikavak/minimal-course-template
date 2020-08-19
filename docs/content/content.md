@@ -8,6 +8,4 @@ permalink: docs/content
 
 # Course Content 
 
-| Week # (Date)| Topic | Instructor |
-|------|-------|------------|
-| **#1** (8/24)| <ul><li>Course Introduction</li> <li>Models in Science</li></ul>| Dr. Hamdi Kavak |
+This page lists all the topics to be covered throughout the semester. 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Course Overview
+title: Wk 1. Course Overview
 parent: Course Content
 nav_order: 1
 ---
 
-# Course Overview
+# {{ page.title }}
 
 **Lecture Date:** August 24, 2020 - Monday  
 **Lecturer:** Dr. Hamdi Kavak  
